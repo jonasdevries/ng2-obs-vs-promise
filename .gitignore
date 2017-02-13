@@ -1,1 +1,8 @@
-node_modules/
+e2e
+node_modules
+src/**/*.js
+src/**/*.js.map
+!src/systemjs.config.extras.js
+!src/systemjs.config.js
+*.js.map
+npm-debug.log*
